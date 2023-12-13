@@ -1,6 +1,5 @@
 <h1align="center">Xin chào 👋, tôi là Paul-Greyrat</h1>
 <h3align="center">Một nhà phát triển frontend đầy nhiệt huyết đến từ Việt Nam</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--59813501292017265%2F&psig=AOvVaw3VtqP9GyzOKn6k931Tft50&ust=1702565191546000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjk3e_TjIMDFQAAAAAdAAAAABAE
 
 <palign="left"> <img src ="https://komarev.com/ghpvc/?username=paul-greyrat&label=Profile%20views&color=0e75b6&style=flat" alt="paul-greyrat" /> </p>
 
@@ -27,3 +26,4 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpint
 <p> <imgalign="center" src="https://github -readme-stats.vercel.app/api?username=paul-greyrat&show_icons=true&locale=en" alt="paul-greyrat" /></p>
 
 <p><imgalign="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-greyrat&" alt="paul-greyrat" /></p>
+
