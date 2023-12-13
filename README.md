@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul-Greyrat</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
+<img align="right" alt"coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="paul-greyrat" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul-greyrat&label=Profile%20views&color=0e75b6&style=flat" alt="paul-greyrat" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **website**
 
-- 📫 How to reach me **: anhday1622005@gmail.com or https://www.facebook.com/nguyenvan.quyet.1622005**
+- 📫 How to reach me : anhday1622005@gmail.com
 
 - ⚡ Fun fact **I am enthusiastic and determined**
 
