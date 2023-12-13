@@ -1,24 +1,29 @@
+<h1align="center">Xin chào 👋, tôi là Paul-Greyrat</h1>
+<h3align="center">Một nhà phát triển frontend đầy nhiệt huyết đến từ Việt Nam</h3>
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--59813501292017265%2F&psig=AOvVaw3VtqP9GyzOKn6k931Tft50&ust=1702565191546000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjk3e_TjIMDFQAAAAAdAAAAABAE
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/nguyenvan.quyet.1622005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/hoangduong5744?igshid=OGQ5ZDc2ODk2ZA==) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/6ePQu4n) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@quyetofficial162) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@paulgreyrat4709) 
+<palign="left"> <img src ="https://komarev.com/ghpvc/?username=paul-greyrat&label=Profile%20views&color=0e75b6&style=flat" alt="paul-greyrat" /> </p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Paul-Greyrat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Paul-Greyrat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Greyrat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 Tôi hiện đang làm việc **tự do **
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+- 🌱 Tôi hiện đang học **fullstack**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Paul-Greyrat&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 👯 Tôi đang muốn cộng tác trên **trang web**
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- 📫 Cách liên hệ với tôi **: anhday1622005@gmail.com hoặc https://www.facebook .com/nguyenvan.quyet.1622005**
 
----
-[![](https://visitcount.itsvg.in/api?id=Paul-Greyrat&icon=0&color=0)](https://visitcount.itsvg.in)
+- ⚡ **Nhiệt huyết và quyết tâm là từ khóa của tôi**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3align="left">Kết nối với tôi:</h3>
+<palign="left">
+<a href= "https://fb.com/https://www.facebook.com/nguyenvan.quyet.1622005" target="blank"><imgalign="center" src="https://raw.githubusercontent.com /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyenvan.quyet.1622005" chiều cao="30" chiều rộng ="40" /></a>
+</p>
+
+<h3align="left">Ngôn ngữ và công cụ:</h3>
+<palign="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos /angular/angular.svg" alt="angular" width="40" Height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank " rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-origin.svg" alt="cplusplus" width="40" Height= "40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent .com/devicons/devicon/master/icons/css3/css3-origen-wordmark.svg" alt="css3" width="40" Height="40"/> </a> <a href="https:/ /www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-origin- wordmark.svg" alt="html5" width="40" Height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target= "_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" Height="40"/ > </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https:// raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-origen.svg" alt="javascript" width="40" Height="40"/> </a> <a href="https: //www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-origen-wordmark .svg" alt="mongodb" width="40" Height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-origen-wordmark.svg" alt="nodejs" width="40" Height="40"/> </ a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" Height="40"/> </a> <a href="https://reactjs. org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-origin-wordmark.svg" alt=" phản ứng" width="40" Height="40"/> </a> </p>
+
+<p><imgalign="left" src="https://github-readme-stats.vercel.app/api /top-langs?username=paul-greyrat&show_icons=true&locale=en&layout=compact" alt="paul-greyrat" /></p>
+
+<p> <imgalign="center" src="https://github -readme-stats.vercel.app/api?username=paul-greyrat&show_icons=true&locale=en" alt="paul-greyrat" /></p>
+
+<p><imgalign="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-greyrat&" alt="paul-greyrat" /></p>
