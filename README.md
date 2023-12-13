@@ -1,4 +1,5 @@
-[![masterhead ](https://e-tuitions.com/images/1624873936613-blog%209.jpg)]
+
+<img src="https://e-tuitions.com/images/1624873936613-blog%209.jpg" alt="paul-greyrat" />
 <h1 align="center">Hi 👋, I'm Paul-Greyrat</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" alt"coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="paul-greyrat" />
