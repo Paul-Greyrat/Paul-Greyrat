@@ -10,7 +10,7 @@
  
 - 🔭 I’m currently working on **freelance**
 
-- 🌱 I’m currently learning **font end dev**
+- 🌱 I’m currently learning **fontend dev**
 
 - 👯 I’m looking to collaborate on **website**
 
