@@ -26,11 +26,11 @@
 
 # 📊GitHub Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-greyrat&show_icons=true&locale=en&layout=compact" alt="paul-greyrat" /></p>
+![](https://github-readme-stats.vercel.app/api?username=paul-greyrat&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paul-greyrat&show_icons=true&locale=en" alt="paul-greyrat" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=paul-greyrat&theme=radical&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-greyrat&" alt="paul-greyrat" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-greyrat&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
