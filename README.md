@@ -10,7 +10,7 @@
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" alt"coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="paul-greyrat" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paul-greyrat&label=Profile%20views&color=0e75b6&style=flat" alt="paul-greyrat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paul1622005&label=Profile%20views&color=0e75b6&style=flat" alt="paul-greyrat" /> </p>
 
 # 💫About Me :
  
@@ -32,11 +32,11 @@
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=paul-greyrat&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=paul1622005&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=paul-greyrat&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=paul1622005&theme=radical&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-greyrat&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paul1622005&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
