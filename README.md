@@ -27,6 +27,7 @@
   
 <br/>
 <hr/>
+
  <h1> 🌐Socials :</h1>
   <a href="https://www.facebook.com/nguyenvan.quyet.1622005">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=while" />
@@ -35,7 +36,8 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 <br/>
-<hr/>
+<hr/>  
+
 <h1 >💻Tech Stack :</h1>
 <br/>
 <div >
@@ -61,7 +63,17 @@
 
 <br/>
 
-### ✍️ Quote
+<div>
+  <h1>🐍 My Contributions</h1>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/paul1622005/paul1622005/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h1> ✍️ Quote </h1>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
