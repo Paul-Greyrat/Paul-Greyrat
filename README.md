@@ -73,7 +73,8 @@
 
 <hr/>
 
-<h1> ✍️ Quote </h1>
+<h1> ✍️ Quote </h1> 
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
