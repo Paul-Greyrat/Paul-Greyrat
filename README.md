@@ -65,7 +65,7 @@
 
 
 <div>
-  <h1>🐍 My Contributions</h1>
+  <h1> 🌱 My Contributions</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/paul1622005/paul1622005/output/github-contribution-grid-snake.svg" />
   
