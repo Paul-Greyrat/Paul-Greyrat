@@ -47,7 +47,7 @@
 <br/>
 <hr/>
 
-<h1 >📊GitHub Stats :</h1>
+<h1 >📊 GitHub Stats :</h1>
 <br>
 <div >
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=paul1622005&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
