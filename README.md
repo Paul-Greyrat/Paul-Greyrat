@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul1622005&label=Profile%20views&color=0e75b6&style=flat" alt="paul-greyrat" /> </p>
 
-<h1>💫About Me :</h1>
+<h1>💫 About Me :</h1>
  
 - 🔭 I’m currently working on **freelance**
 
@@ -28,7 +28,7 @@
 <br/>
 <hr/>
 
- <h1> 🌐Socials :</h1>
+ <h1> 🌐 Socials :</h1>
   <a href="https://www.facebook.com/nguyenvan.quyet.1622005">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=while" />
   </a>
@@ -38,7 +38,7 @@
 <br/>
 <hr/>  
 
-<h1 >💻Tech Stack :</h1>
+<h1 >💻 Tech Stack :</h1>
 <br/>
 <div >
     <img src="https://skillicons.dev/icons?i=javascript,html,css,vscode,github,git," />
