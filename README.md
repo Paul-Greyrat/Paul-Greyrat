@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul1622005&label=Profile%20views&color=0e75b6&style=flat" alt="paul-greyrat" /> </p>
 
-<h1>💫 About Me :</h1>
+<h1>💫  About Me :</h1>
  
 - 🔭 I’m currently working on **freelance**
 
@@ -28,7 +28,7 @@
 <br/>
 <hr/>
 
- <h1> 🌐 Socials :</h1>
+ <h1> 🌐  Socials :</h1>
   <a href="https://www.facebook.com/nguyenvan.quyet.1622005">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=while" />
   </a>
@@ -38,7 +38,7 @@
 <br/>
 <hr/>  
 
-<h1 >💻 Tech Stack :</h1>
+<h1 >💻  Tech Stack :</h1>
 <br/>
 <div >
     <img src="https://skillicons.dev/icons?i=javascript,html,css,vscode,github,git," />
@@ -47,7 +47,7 @@
 <br/>
 <hr/>
 
-<h1 >📊 GitHub Stats :</h1>
+<h1 >📊  GitHub Stats :</h1>
 <br>
 <div >
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=paul1622005&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -65,7 +65,7 @@
 
 
 <div>
-  <h1> 🌱 My Contributions</h1>
+  <h1> 🌱  My Contributions</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/paul1622005/paul1622005/output/github-contribution-grid-snake.svg" />
   
@@ -75,7 +75,7 @@
 <hr/>
 
 
-<h1> ✍️ Quote </h1> 
+<h1> ✍️  Quote </h1> 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
