@@ -70,7 +70,7 @@
   
 ### 🌱 My Contributions
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/paul1622005/paul1622005/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Paul-Greyrat/Paul-Greyrat/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
