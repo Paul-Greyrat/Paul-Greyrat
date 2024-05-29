@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul1622005&label=Profile%20views&color=0e75b6&style=flat" alt="paul-greyrat" /> </p> 
 
 
-### 💫 About Me :   
+### 💫 About Me :    
   
   
 - 🔭 I’m currently working on **freelance**
