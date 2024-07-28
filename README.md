@@ -5,7 +5,7 @@
 <h1 align="center">         
   <a href="https://git.io/typing-svg"> 
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=what's+up+everyone!+👋;+I'm+Paul+Greyrat!;+Nice+to+meet+you!" />
-  </a>
+  </a> 
 </h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3> 
 <img align="right" width="400" alt"coding"  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" /> 
