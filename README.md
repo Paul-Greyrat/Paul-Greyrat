@@ -42,7 +42,7 @@
 ### 💻 Tech Stack :
 <br/>
 <div >
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,vscode,github,git,figma," />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,vscode,github,git,figma," />  
 </div>
 
 <br/>
