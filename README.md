@@ -7,7 +7,7 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=what's+up+everyone!+👋;+I'm+Paul+Greyrat!;+Nice+to+meet+you!" />
   </a> 
 </h1> 
-<h3 align="center">A passionate frontend developer from VietNam</h3>  
+<h3 align="center">A Unity Developer from VietNam</h3>  
 <img align="right" width="400" alt"coding"  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" /> 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul1622005&label=Profile%20views&color=0e75b6&style=flat" alt="paul-greyrat" /> </p> 
