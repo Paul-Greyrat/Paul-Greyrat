@@ -18,7 +18,7 @@
    
 - 🔭 I’m currently working on **freelance** 
  
-- 🌱 I’m currently learning **Unity game development**
+- 🌱 I’m currently learning **Unity game programming**
  
 - 👯 I’m looking to collaborate on **website**
 
