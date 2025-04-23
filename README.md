@@ -20,7 +20,7 @@
  
 - 🌱 I’m currently learning **Unity game programming**
  
-- 👯 I’m looking to collaborate on **website**
+- 👯 I’m looking for a game programming job
 
 - 📫 How to reach me : anhday1622005@gmail.com or https://www.facebook.com/nguyenvan.quyet.1622005
 
