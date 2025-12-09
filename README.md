@@ -14,7 +14,7 @@
 ### 💫 About Me :     
 
    
-- 🔭 I’m currently working on **freelance** 
+- 🔭 I’m currently **freelance** 
  
 - 🌱 I’m currently learning **Unity game programming**
  
