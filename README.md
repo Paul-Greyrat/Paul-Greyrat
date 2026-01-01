@@ -20,7 +20,7 @@
  
 - 👯 I’m looking for a game programming job
 
-- 📫 How to reach me : anhday1622005@gmail.com or https://www.facebook.com/nguyenvan.quyet.1622005
+- 📫 How to reach me : quyetnguyen.devnd@gmail.com or https://www.facebook.com/nguyenvan.quyet.1622005
 
 - ⚡  **Enthusiasm and Determination are my key words.**
   
